@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/settings.json
+.idea/
+
+# Logs
+*.log
+
+# Environment / local config overrides
+.env
+
+# Dependency directories (not used in this project, kept for safety)
+/vendor/
+/node_modules/
